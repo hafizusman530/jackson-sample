@@ -1,0 +1,47 @@
+{
+  "organization": {
+    "employees": [
+      {
+        "firstName": "M",
+        "lastName": "Usman",
+        "gender": "man",
+        "age": 25,
+        "dob": "25-06-1994",
+        "status": "married",
+        "address": {
+          "streetAddress": "Sultan ahmad Road, Ichra",
+          "city": "Lahore",
+          "state": "Punjab",
+          "postalCode": "lhr-dymmy-code"
+        },
+        "phoneNumbers": [
+          {
+            "type": "home",
+            "number": "03324r23423"
+          },
+          {
+            "type": "mobile",
+            "number": "03324r23423"
+          }
+        ]
+      }
+    ],
+    "name": "companyABC",
+    "address": {
+      "streetAddress": "Sultan ahmad Road, Ichra",
+      "city": "Lahore",
+      "state": "Punjab",
+      "postalCode": "lhr-dymmy-code"
+    },
+    "phoneNumbers": [
+      {
+        "type": "Office HR",
+        "number": "03324r23423"
+      },
+      {
+        "type": "Marketing",
+        "number": "03324r23423"
+      }
+    ]
+  }
+}
